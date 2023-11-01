@@ -28,6 +28,11 @@
   url = "#program"
   weight = 40
 
+[[main]]
+  name = "Previous Editions"
+  url = "#previous"
+  weight = 60
+
 #[[main]]
 #  name = "dropdown"
 #  url = "#"
