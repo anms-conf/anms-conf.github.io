@@ -22,9 +22,6 @@ title = "Program Committee (TBC)"
   organization = "NEC Laboratories Europe, Germany"
   title = "Andres Garcia Saavedra"
 [[item]]
-  organization = "IMDEA Networks Institute, Spain"
-  title = "Marco Fiore"
-[[item]]
   organization = "ADLINK Technology, France"
   title = "Luca Cominardi"
 [[item]]
